@@ -7,7 +7,7 @@ import Layout from './container/Layout';
 import Eror from './component/Eror';
 import Context from './Context';
 
-const API_KEY = 'f0d7972dabf73d6a15e1e68234e50a9a';
+const API_KEY = 'Your Key';
 
 class App extends Component {
   constructor(props) {
